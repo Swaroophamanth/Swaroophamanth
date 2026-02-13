@@ -15,8 +15,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shadow_rc&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+#<div align="center">
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shadow_rc&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
