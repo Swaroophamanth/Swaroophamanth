@@ -11,7 +11,7 @@
 <div align="center">
 
 
-## ✍️ Random Dev Quote
+## ✍️ Quotes from Devs
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 
