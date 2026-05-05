@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I'm Swaroop<br><br>🎓 Freshman at Lamrin Tech Skill University<br><br>💻 Pursuing B.Tech in CSE (AI/ML)<br>
+😁 Hi, I'm Swaroop<br><br>🎓 Freshman at Lamrin Tech Skill University<br><br>💻 Pursuing B.Tech in CSE (AI/ML)<br>
+<br>I'm a linux enthusiast , currently exploring it <br>
+Love to play games 
 
 
 ## 🌐 Socials:
