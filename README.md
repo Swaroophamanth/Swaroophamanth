@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Swaroop<br><br>🎓 Freshman at Lamrin Tech Skill University<br><br>💻 Pursuing B.Tech in CSE (AI/ML)<br><br>🚀 Aspiring Developer passionate about building real-world projects<br><br>🤖 Exploring the intersection of AI/ML and Software Development<br><br>🌱 Currently learning and growing my tech stack<br><br>🔧 Focused on writing clean, functional code<br><br>📫 Reach me at: [swaroophamanth@gmail.com]<br><br>💡 Always eager to learn something new from fellow developers — open to mentorship, collaboration, and feedback!<br><br>🎯 Interests:<br>          🐧 Linux enthusiast — daily driving and exploring the open-source ecosystem<br>         <br>          🎮 Gamer — love playing games on my laptop during downtime<br>
-
+👋 Hi, I'm Swaroop<br><br>🎓 Freshman at Lamrin Tech Skill University<br><br>💻 Pursuing B.Tech in CSE (AI/ML)<br>
 
 
 ## 🌐 Socials:
